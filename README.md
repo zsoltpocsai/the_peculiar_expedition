@@ -6,6 +6,6 @@ I have made it as a school project aiming for practicing the OOP concept and Jav
 
 ## Would you give it a try?
 
-1. Download the Jar file from here: [The Peculiar Expedition](jar/ThePeculiarExpedition.jar)
-2. Open your CLI (like Command Prompt) and navigate to the folder where the downloaded file is located
+1. Download the Jar file from here: [The Peculiar Expedition](releases/latest)
+2. Open your command line and navigate to the folder where the downloaded file is located
 3. Launch the game using the `java -jar ThePeculiarExpedition.jar` command
